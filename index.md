@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am currently a Ph.D. student at Northeastern University working with [Prof. Shahin Shahrampour](https://shahrampour.sites.northeastern.edu/). Before that, I received my bachelor and master degree at National Yang Ming Chiao Tung University and Texas A&M University, respectively.
+I am currently a Ph.D. student at Northeastern University working with [Prof. Shahin Shahrampour](https://shahrampour.sites.northeastern.edu/). Before that, I received my bachelor and master degrees at National Yang Ming Chiao Tung University and Texas A&M University, respectively.
 
 ## Research Interests
 
