@@ -27,7 +27,7 @@ I am currently a Ph.D. student at Northeastern University working with [Prof. Sh
   <br>
   [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16858)]
 
-- ** Global Convergence of Newton Method for Empirical Risk Minimization in Reproducing Kernel 
+- **Global Convergence of Newton Method for Empirical Risk Minimization in Reproducing Kernel 
 Hilbert Space**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
