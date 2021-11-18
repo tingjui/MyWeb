@@ -6,7 +6,7 @@ I am currently a Ph.D. student at Northeastern University working with [Prof. Sh
 
 ## Research Interests
 
-- Online optimization, adaptive control, distributed online control
+Online optimization, adaptive control, distributed online control
 
 
 ## Publications
