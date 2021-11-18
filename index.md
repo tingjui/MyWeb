@@ -6,43 +6,51 @@ I am currently a Ph.D. student at Northeastern University working with [Prof. Sh
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Online optimization, adaptive control, distributed online control
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Distributed Online Linear Quadratic Control for Linear Time-invariant Systems**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Ting-Jui Chang**, Shahin Shahrampour
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  American Control Conference (ACC), 2021.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/abs/2009.13749]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **On Online Optimization: Dynamic Regret Analysis of Strongly Convex and Smooth Problems**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Ting-Jui Chang**, Shahin Shahrampour
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16858)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- ** Global Convergence of Newton Method for Empirical Risk Minimization in Reproducing Kernel 
+Hilbert Space**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Ting-Jui Chang**, Shahin Shahrampour
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  54th Asilomar Conference on Signals, Systems, and Computers, 2020.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+ 
+## Preprint
+
+- **Regret Analysis of Distributed Online LQR Control for Unknown LTI Systems**
+  <br>
+  **Ting-Jui Chang**, Shahin Shahrampour
+  
+ - **RFN: A Random-Feature Based Newton Method for Empirical Risk Minimization in Reproducing 
+Kernel Hilbert Spaces**
+  <br>
+  **Ting-Jui Chang**, Shahin Shahrampour
+  
+ - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
+  <br>
+  **Ting-Jui Chang**, Yukun He, Peng Li
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: CDC, L4DC.
+
