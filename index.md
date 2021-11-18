@@ -17,7 +17,7 @@ Online optimization, adaptive control, distributed online control
   <br>
   American Control Conference (ACC), 2021.
   <br>
-  [[PDF](https://arxiv.org/abs/2009.13749]
+  [[PDF](https://arxiv.org/abs/2009.13749)]
 
 - **On Online Optimization: Dynamic Regret Analysis of Strongly Convex and Smooth Problems**
   <br>
