@@ -41,6 +41,7 @@ Hilbert Space**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
   <br>
+  [[PDF](https://arxiv.org/abs/2105.07310)]
   
  - **RFN: A Random-Feature Based Newton Method for Empirical Risk Minimization in Reproducing 
 Kernel Hilbert Spaces**
