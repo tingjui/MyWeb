@@ -40,15 +40,18 @@ Hilbert Space**
 - **Regret Analysis of Distributed Online LQR Control for Unknown LTI Systems**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
+  <br>
   
  - **RFN: A Random-Feature Based Newton Method for Empirical Risk Minimization in Reproducing 
 Kernel Hilbert Spaces**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
+  <br>
   
  - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
   <br>
   **Ting-Jui Chang**, Yukun He, Peng Li
+  <br>
 
 ## Services
 
