@@ -46,12 +46,10 @@ Hilbert Space**
 Kernel Hilbert Spaces**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
-  <br>
   
  - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
   <br>
   **Ting-Jui Chang**, Yukun He, Peng Li
-  <br>
 
 ## Services
 
