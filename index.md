@@ -11,6 +11,14 @@ Online optimization, adaptive control, distributed online control
 
 ## Publications
 
+- **Distributed Online System Identification for LTI Systems Using Reverse Experience Replay**
+  <br>
+  **Ting-Jui Chang**, Shahin Shahrampour
+  <br>
+  Conference on Decision and Control (CDC), 2022.
+  <br>
+  [[PDF](https://arxiv.org/abs/2207.01062)]
+
 - **Distributed Online Linear Quadratic Control for Linear Time-invariant Systems**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
