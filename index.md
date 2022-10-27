@@ -33,7 +33,7 @@ Online optimization, adaptive control, distributed online control
   <br>
   Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021.
   <br>
-  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16858)]
+  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16858)][[Video](https://slideslive.com/38947739/on-online-optimization-dynamic-regret-analysis-of-strongly-convex-and-smooth-problems?ref=account-folder-75497-folders)]
 
 - **Global Convergence of Newton Method for Empirical Risk Minimization in Reproducing Kernel 
 Hilbert Space**
