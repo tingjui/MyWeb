@@ -10,6 +10,14 @@ Online optimization, adaptive control, distributed online control
 
 
 ## Publications
+- **RFN: A Random-Feature Based Newton Method for Empirical Risk Minimization in Reproducing 
+Kernel Hilbert Spaces**
+  <br>
+  **Ting-Jui Chang**, Shahin Shahrampour
+  <br>
+  IEEE Transactions on Signal Processing
+  <br>
+  https://ieeexplore.ieee.org/document/9940531
 
 - **Distributed Online System Identification for LTI Systems Using Reverse Experience Replay**
   <br>
@@ -50,11 +58,6 @@ Hilbert Space**
   **Ting-Jui Chang**, Shahin Shahrampour
   <br>
   [[PDF](https://arxiv.org/abs/2105.07310)]
-  
- - **RFN: A Random-Feature Based Newton Method for Empirical Risk Minimization in Reproducing 
-Kernel Hilbert Spaces**
-  <br>
-  **Ting-Jui Chang**, Shahin Shahrampour
   
  - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
   <br>
