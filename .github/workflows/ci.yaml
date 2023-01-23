@@ -10,7 +10,7 @@ jobs:
 #           ruby-version: 2.7
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '2.7'
       - name: build
         run: script/bootstrap
       - name: test
