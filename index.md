@@ -11,7 +11,7 @@ Online optimization, adaptive control, distributed online control
 
 ## Publications
 - **Regret Analysis of Distributed Online LQR Control for Unknown LTI Systems**
-<br>
+  <br>
   **Ting-Jui Chang**, Shahin Shahrampour
   <br>
   IEEE Transactions on Automatic Control
