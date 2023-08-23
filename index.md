@@ -60,6 +60,15 @@ Hilbert Space**
   <br>
  
 ## Preprint
+- **Dynamic Regret Analysis of Safe Distributed Online Optimization for
+Convex and Non-convex Problems**
+  <br>
+  **Ting-Jui Chang**, Sapana Chaudhary, Dileep Kalathil and Shahin Shahrampour
+  <br>
+  Transactions on Machine Learning Research (accepted with minor revision)
+  <br>
+  [[PDF](https://arxiv.org/abs/2302.12320)]
+  
 - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
   <br>
   **Ting-Jui Chang**, Yukun He, Peng Li
