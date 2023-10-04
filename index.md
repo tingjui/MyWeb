@@ -10,6 +10,15 @@ Online optimization, adaptive control, distributed online control
 
 
 ## Publications
+- **Dynamic Regret Analysis of Safe Distributed Online Optimization for
+Convex and Non-convex Problems**
+  <br>
+  **Ting-Jui Chang**, Sapana Chaudhary, Dileep Kalathil and Shahin Shahrampour
+  <br>
+  Transactions on Machine Learning Research
+  <br>  
+  [[PDF](https://openreview.net/forum?id=xiQXHvL1eN)]
+
 - **Regret Analysis of Distributed Online LQR Control for Unknown LTI Systems**
   <br>
   **Ting-Jui Chang**, Shahin Shahrampour
@@ -59,19 +68,12 @@ Hilbert Space**
   54th Asilomar Conference on Signals, Systems, and Computers, 2020.
   <br>
  
-## Preprint
-- **Dynamic Regret Analysis of Safe Distributed Online Optimization for
-Convex and Non-convex Problems**
-  <br>
-  **Ting-Jui Chang**, Sapana Chaudhary, Dileep Kalathil and Shahin Shahrampour
-  <br>
-  [[PDF](https://arxiv.org/abs/2302.12320)]
-  
+## Preprint  
 - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
   <br>
   **Ting-Jui Chang**, Yukun He, Peng Li
 
 ## Services
 
-- Conference Reviewers: CDC, L4DC.
+- Peer Work Reviewers: TAC, CDC, L4DC.
 
