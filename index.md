@@ -17,7 +17,7 @@ Convex and Non-convex Problems**
   <br>
   Transactions on Machine Learning Research
   <br>  
-  [[PDF](https://openreview.net/forum?id=xiQXHvL1eN)]
+  [[Link](https://openreview.net/forum?id=xiQXHvL1eN)]
 
 - **Regret Analysis of Distributed Online LQR Control for Unknown LTI Systems**
   <br>
