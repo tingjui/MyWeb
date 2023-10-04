@@ -16,7 +16,7 @@ Convex and Non-convex Problems**
   **Ting-Jui Chang**, Sapana Chaudhary, Dileep Kalathil and Shahin Shahrampour
   <br>
   Transactions on Machine Learning Research
-  <br>  
+  <br>
   [[Link](https://openreview.net/forum?id=xiQXHvL1eN)]
 
 - **Regret Analysis of Distributed Online LQR Control for Unknown LTI Systems**
