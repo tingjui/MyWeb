@@ -68,7 +68,14 @@ Hilbert Space**
   54th Asilomar Conference on Signals, Systems, and Computers, 2020.
   <br>
  
-## Preprint  
+## Preprint
+- **Regret Analysis of Distributed Online Control for LTI Systems with
+Adversarial Disturbances**
+  <br>
+  **Ting-Jui Chang**, Shahin Shahrampour
+  <br>
+  [[PDF](https://arxiv.org/abs/2310.03206)]
+
 - **Efficient Two-Step Adversarial Defense for Deep Neural Networks**
   <br>
   **Ting-Jui Chang**, Yukun He, Peng Li
