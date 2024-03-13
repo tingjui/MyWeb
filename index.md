@@ -82,5 +82,5 @@ Adversarial Disturbances**
 
 ## Services
 
-- Peer Work Reviewers: TAC, CDC, L4DC.
+- Peer Work Reviewers: IEEE TAC, IEEE TSP, IEEE CDC, L4DC.
 
