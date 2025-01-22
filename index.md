@@ -69,6 +69,12 @@ Hilbert Space**
   <br>
  
 ## Preprint
+- **Regret Analysis of Policy Optimization over Submanifolds for Linearly Constrained Online LQG**
+  <br>
+  **Ting-Jui Chang**, Shahin Shahrampour
+  <br>
+  [[PDF](https://arxiv.org/pdf/2403.08553)]
+
 - **Regret Analysis of Distributed Online Control for LTI Systems with
 Adversarial Disturbances**
   <br>
